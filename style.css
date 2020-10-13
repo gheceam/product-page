@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#header{
+  position: relative;
+  height: 200px;
+  background: lightgray;
+  width: 100%;
+}
+
+#logo{
+  height: 100%;
+}
+
+#logo-text{
+  display: inline-block;
+}
+
+img{
+  /* position: absolute; */
+  height: 50%;
+  display: inline-block;
+  /* margin-top: 10px; */
+}
+
